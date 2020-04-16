@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f0f3e6d-4d08-4812-99e7-964515a998c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aIcv0QTIDDaALbXxci6wRwCOBG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mflor\Java_Lab8\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Java_Lab8" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f0f3e6d-4d08-4812-99e7-964515a998c0" name="Default Changelist" comment="" />
+      <created>1586426774102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586426774102</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586428383855">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="164" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1586428383855" />
+    <state x="539" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1587056443611">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="539" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1587056443611" />
+    <state x="27" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586451119007">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="27" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1586451119007" />
+    <state x="523" y="136" key="DetectedRootsChooserDialog" timestamp="1587047350522">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="523" y="136" key="DetectedRootsChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1587047350522" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1587047567266">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587047567266" />
+    <state width="1497" height="132" key="GridCell.Tab.0.bottom" timestamp="1586454421703">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1497" height="132" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586454421703" />
+    <state width="1497" height="132" key="GridCell.Tab.0.center" timestamp="1586454421702">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1497" height="132" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586454421702" />
+    <state width="1497" height="132" key="GridCell.Tab.0.left" timestamp="1586454421702">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1497" height="132" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586454421702" />
+    <state width="1497" height="132" key="GridCell.Tab.0.right" timestamp="1586454421702">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1497" height="132" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586454421702" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1587047568700">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1587047568699" />
+  </component>
+</project>
